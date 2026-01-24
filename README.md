@@ -19,6 +19,8 @@ WWCD
 
 #Chuckverse™
 
+This repository is not complete and is not meant to be. It exists as a record, not a product.
+
 ---
 
 > witness artifact
