@@ -35,4 +35,5 @@ This repository is not complete and is not meant to be. It exists as a record, n
 - 104010⁴⁰ OST™ — Spotify:https://open.spotify.com/playlist/0ry1RiHzRqesshxXJAzDhO?si=yHr0yJiBTAicXdXjcS5t8Q&pi=AElWRgKqTUq5P
 - SEB™ (in progress) — Spotify:
 https://open.spotify.com/playlist/2SSdD0ru8D1FiuLcD7mfwt?si=ZWpjvgxQRDe38msEIkXFwQ&pi=ffW3U4k8SZauY
-
+- AI Soul Covers — Spotify:
+https://open.spotify.com/playlist/574LPIKwRGWZkuM7TBLVgD?si=h--i3m-YQOKiWCSaxzbgDw&pi=uCheT2QVTcC0P
