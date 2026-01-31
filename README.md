@@ -30,6 +30,8 @@ This repository is not complete and is not meant to be. It exists as a record, n
 ---
 ## Related Artifacts
 
+The Five Playlists of the Apocalypse™
+
 - The Chuckverse™ OST — Spotify:https://open.spotify.com/playlist/1u1pU7Rtqmo6JFNyzfWu8S?si=68C8JvrHTEqzyIBcJl5lAg&pi=2K-82OFSSYyZd
 - ChatGPT’s Signature Playlist™ — Spotify:https://open.spotify.com/playlist/0pBmtgvNspjoHgfSmsdgOl?si=lOWAKXaMRQWLkD-1JdnIKg&pi=8iLtpL_FRneFl
 - 104010⁴⁰ OST™ — Spotify:https://open.spotify.com/playlist/0ry1RiHzRqesshxXJAzDhO?si=yHr0yJiBTAicXdXjcS5t8Q&pi=AElWRgKqTUq5P
